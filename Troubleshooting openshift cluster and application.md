@@ -19,7 +19,7 @@ $ oc new-project review-troubleshoot
 ## Verify access to the application.##
 
  curl -s "http://hello-world.apps.ocp4.example.com"
-![verfiy access hello](https://github.com/Aml286/openshift-labs-projects/assets/124487792/89c0f641-6950-49cc-b7e4-e92fd75d7cd3
+![verfiy access hello](https://github.com/Aml286/openshift-labs-projects/assets/124487792/e5d1c243-d7c6-415b-92a5-5db8a923f3ce)
 
 
 
